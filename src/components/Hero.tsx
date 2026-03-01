@@ -28,19 +28,19 @@ export default function Hero() {
       </div>
 
       <div className="hero-inner">
-        <div className="hero-overline">Mon, June 8, 2026 &bull; Glen Abbey Golf Club, Oakville ON</div>
+        <div className="hero-overline">Mon, June 8, 2026 &bull; Glen Abbey Tennis Club, Oakville ON</div>
 
         <h1 className="hero-h1">
-          The Bitcoin Golf<br />&amp; Hold&rsquo;em Open
-          <span className="sub-word">Championship Golf &bull; Texas Hold&rsquo;em</span>
+          The Bitcoin Tennis<br />&amp; Hold&rsquo;em Open
+          <span className="sub-word">Championship Tennis &bull; Texas Hold&rsquo;em</span>
         </h1>
 
-        <p className="hero-tagline">Where Championship Golf Meets Digital Capital</p>
+        <p className="hero-tagline">Where Championship Tennis Meets Digital Capital</p>
 
         <div className="hero-details">
           <div className="detail-pill"><div className="detail-dot" />Mon June 8, 2026</div>
           <div className="detail-pill"><div className="detail-dot" style={{ background: 'rgba(255,255,255,.4)' }} />1:30 PM Shotgun Start</div>
-          <div className="detail-pill"><div className="detail-dot" style={{ background: 'rgba(255,255,255,.4)' }} />Glen Abbey Golf Club</div>
+          <div className="detail-pill"><div className="detail-dot" style={{ background: 'rgba(255,255,255,.4)' }} />Glen Abbey Tennis Club</div>
           <div className="detail-pill"><div className="detail-dot" style={{ background: 'rgba(255,255,255,.4)' }} />Oakville, Ontario</div>
         </div>
 
